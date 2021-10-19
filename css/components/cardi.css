@@ -1,0 +1,22 @@
+.cardi { 
+	display: flex;
+	padding: 25px;
+    align-items: center;
+    justify-content: space-between;
+    width: 1199px;
+    padding-left: 0px;
+}
+
+.cardi img {
+    width: 200px;
+    height: 200px;
+}
+
+.cardi h3 { 
+flex-grow: 1;
+}
+
+.cardi p {
+    text-align: justify;
+}
+

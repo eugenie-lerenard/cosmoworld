@@ -1,0 +1,9 @@
+.banner {
+	width: 1440px;
+	height: 97px;
+	background-color: #FDF792;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}

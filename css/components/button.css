@@ -1,0 +1,12 @@
+.btn-white {
+	background-color: #FAF5F4;
+	padding: 15px 20px;
+	border-radius: 4%;
+	color: black;
+	font-family: 'Poppins' , sans-serif;
+}
+
+.btn-white:hover {
+	background-color: #E90080;
+	color: white;
+}

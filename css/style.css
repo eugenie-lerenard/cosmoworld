@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Poppins:wght@300;400;500;700&display=swap');
+@import url("components/container.css");
+@import url("components/img-rectangle.css");
+@import url("components/button.css");
+@import url("components/logo.css");
+@import url("components/banner.css");
+@import url("components/list-inline.css");
+@import url("components/cardi.css");
+@import url("components/btn-jaune.css");
+@import url("components/home.css");
+
+
+
+
+
+body {
+	font-family: 'Lora' , serif;
+	font-size: 18px;
+	background-color: #B2F0F6;
+}
+
+h1, h2, h3 {
+	font-family: 'Poppins' , sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Poppins' , sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+a:hover {
+	color: #E90080;
+}
+
+#Cosmoworld {
+	font-size: 30px;
+}
+
+#kpop {
+	text-align: justify;
+
+
+
+
